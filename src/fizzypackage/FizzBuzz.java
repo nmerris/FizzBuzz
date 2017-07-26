@@ -1,11 +1,16 @@
 package fizzypackage;
 
 public class FizzBuzz {
-
-	// this program displays numbers between 1 and 100
-	// if it's a multiple of 3, display 'Fizz' instead of the number
-	// if it's a multiple of 5, display 'Buzz' instead of the number
-	// if it's a multiple of 3 and 5, display 'FizzBuzz' instead of the number
+	/**
+	 * this program displays numbers between 1 and 100
+	 * if it's a multiple of 3, display 'Fizz' instead of the number
+	 * if it's a multiple of 5, display 'Buzz' instead of the number
+	 * if it's a multiple of 3 and 5, display 'FizzBuzz' instead of the number
+	 * 
+	 * @author Nathan Merris
+	 *
+	 */
+	
 	public static void main(String[] args) {
 
 		System.out.println("Prepare for a FizzBuzz bonanza!");
