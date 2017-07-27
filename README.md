@@ -6,7 +6,6 @@
 SAMPLE OUTPUT
 
 
-Prepare for a FizzBuzz bonanza!
 1
 2
 Fizz
